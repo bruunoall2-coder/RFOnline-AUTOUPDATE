@@ -1,0 +1,31 @@
+[Particle]
+entity_file .\Chef\Taiwan_Halloween\witchHat\BECO_02\glow_light\re.R3E
+num	2
+pos box 0 0 0
+live_time 4
+time_speed 5
+gravity	0 0 0
+
+
+           start_scale 0.3
+           start_power 0 0 0
+           start_alpha 230
+           start_color 50 100 255
+
+
+alpha_type 3
+;z_front -0.1
+start_zrot rand(-20,20)
+
+
+
+time 2
+     alpha 230
+     scale 0.6
+
+
+
+time 4
+     alpha 120
+     scale 0.3
+
