@@ -1,0 +1,4 @@
+NetLog/*
+!NetLog/.ignore
+System/DefaultSet.tmp
+DataTable/clientdb.dat
