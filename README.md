@@ -1,2 +1,0 @@
-# RFOnline-AUTOUPDATE
-INITIAL
