@@ -1,0 +1,6 @@
+{
+    "magic": [
+        {"indx": 0, "magic_id_bcc_male": "0x11F70170", "magic_id_bcc_female": "0x11F70170", "magic_id_ccc_male": "0x11F90170", "magic_id_ccc_female": "0x11F90170", "magic_id_acc": "0x11F40170" },
+        {"indx": 1, "magic_id_bcc_male": "0x11F70160", "magic_id_bcc_female": "0x11F70160", "magic_id_ccc_male": "0x11F90160", "magic_id_ccc_female": "0x11F90160", "magic_id_acc": "0x11F40160" }
+    ]
+}

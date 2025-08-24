@@ -1,0 +1,51 @@
+// Cska.txt´Â DataTable Æú´õ»ó¿¡ Á¸ÀçÇØ¾ß ÇÑ´Ù.
+// NORMALÀº »ó´ë¹æÀ¸·ÎºÎÅÍ ¹ÞÀ» ¶§, AVATAR´Â º»ÀÎÀÌ º¸³¾ ¶§ »ç¿ë.
+// Marker°¡ Á¸ÀçÇÏÁö ¾ÊÀ» ¶§µµ ""Àº ÀÖ¾î¾ß ÇÑ´Ù.
+
+//Name					Red		Green	Blue	Alpha	Marker
+
+#NORMAL					255		255		255		255		""			// Normal Chatting
+#AVATAR					255		255		255		255		""
+
+#SYSTEM					255		166		112		255		""			// Client System Message
+
+#PARTY_NORMAL				231		252		1		255		"[Ãðóïïà]"		// Party Chatting
+#PARTY_AVATAR				231		252		1		255		"[Ãðóïïà]"
+
+#GUILD_NORMAL				153      	255	       153		255		"[Ãèëüäèÿ]"		// Guild Chatting
+#GUILD_AVATAR				153      	255	       153		255		"[Ãèëüäèÿ]"
+
+#WHISPER_NORMAL				16		221		16		255		"[Îò]"		// Whisper Chat
+#WHISPER_AVATAR				16		221		16		255		"[Êîìó]"
+
+#MAP_NORMAL				255		152		51		255		"[Êàðòà]"		// Map Chat
+#MAP_AVATAR				255		152		51		255		"[Êàðòà]"
+
+#RACEBOSS_NORMAL			192		128		255		255		"[Àðõîí]"		// Race Leader/Vice Race Leader Chat
+#RACEBOSS_AVATAR			192		128		255		255		"[Àðõîí]"
+
+#RACEBOSS_ACCRETIA			255		84		198		255		"[Acc]"	// GM Mode
+#RACEBOSS_BELLATO			255		84		198		255		"[Bella]"
+#RACEBOSS_CORA				255		84		198		255		"[Cora]"
+
+#GUILDSENATOR_NORMAL			15		170		97		255		"[Ïðåäñòàâèòåëü Ãèëüäèè]" 		// Guild Representative Chat
+#GUILDSENATOR_AVATAR			15		170		97		255		"[Ïðåäñòàâèòåëü Ãèëüäèè]"
+
+#RACE					2		252		249		255		"[Îñíîâàòåëü]"			// Country Chat
+#NOTIFY					255   		100    		100		255		""			// Server Notice Message
+#TIP					152		171		170		255		""			// Help Message
+#STYLE					0		0		0		0		""			// Color Test Message(Dummy)
+#SCRAMBLE				161		255		85		255		""			// Color Test Message(Dummy)
+
+#BUDDY_LOGIN_MSG			255		255		0		255		""			//Message output when a buddy logs in
+
+#CHAT_TO_ALL				154		180		255		255		""			//Whole Chat
+#GREETING_GM				255		84		198		255		"[ÃÌ ïðèâåòñòâèå]"			//GM Greeting
+#GREETING_RACE				2    		252    		249		255		"[Àðõîí ïðèâòñòâèå]"			//Archon Greeting
+#GREETING_GUILD				0     		120    	 	255		255		"[ÏÐèâåòñâèå Ìàñòåðà Ãèëüäèè]"			//Guild Master Greeting
+#GUILD_MASTER				0		120		255		255		"[Ïðåäñòàâèòåëü]"
+
+#GUILD_MASTER_NORMAL				92		50		246		255		"[Ëèäåð]"
+#GUILD_MASTER_AVATAR				92		50		246		255		"[Ëèäåð]"
+
+//End of File
