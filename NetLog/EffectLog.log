@@ -1,0 +1,4341 @@
+2025/8/12 1:51:45:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:52:6:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:52:7:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:52:7:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:52:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:52:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:2:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:3:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:4:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:15:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:29:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:30:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:31:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:53:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/2473,target -1/-1
+2025/8/12 1:53:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/2407,target -1/-1
+2025/8/12 1:53:37:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x800206,myself 15/2355,target 15/2355
+2025/8/12 1:54:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:54:13:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:54:14:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:54:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:54:15:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:54:15:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:19:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:19:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:23:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:24:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:24:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:24:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:24:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:34:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:36:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:42:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:42:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:43:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:51:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:51:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:54:55:
+	278075<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x830c30,myself 15/2355,target -1/-1
+2025/8/12 1:55:11:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/2409,target -1/-1
+2025/8/12 1:55:12:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:12:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:13:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:13:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:13:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:13:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:14:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:15:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:15:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:15:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2409,target -1/-1
+2025/8/12 1:55:30:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 1:59:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:0:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:0:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:0:55:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:0:56:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:0:56:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:1:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:1:37:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:1:38:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:1:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:2:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:2:14:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:2:15:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:2:15:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 2:3:1:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xaf0058,myself 15/1149,target 15/1149
+2025/8/12 3:7:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 3:17:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:9:30:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:10:17:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:10:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:10:24:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:10:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 22:10:41:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/12 22:10:56:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 0/2491,target -1/-1
+2025/8/12 22:10:57:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:10:59:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:11:0:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:11:10:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:11:13:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:11:46:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:12:5:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:14:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2491,target -1/-1
+2025/8/12 22:15:14:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 0/2524,target -1/-1
+2025/8/12 23:26:33:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:27:12:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:27:14:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:27:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:27:14:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:27:33:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/12 23:27:33:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/12 23:49:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:33:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:34:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/12 23:49:38:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:38:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:39:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:39:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:40:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:40:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:40:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:40:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:43:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:43:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:43:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:43:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:44:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:45:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:46:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:47:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:48:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:48:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:48:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:48:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:49:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:49:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:49:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:49:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:51:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:51:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:51:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:51:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:52:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:52:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:52:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:49:52:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/12 23:50:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/13 4:26:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:20:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:21:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:22:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:22:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:22:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:26:23:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:26:23:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:26:23:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:27:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x50f20f30,myself 15/2541,target -1/-1
+2025/8/13 4:31:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:31:37:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:31:38:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:31:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 4:32:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:36:39:
+	2743063<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:37:10:
+	0x3fff1e70<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e70,myself 15/2541,target 15/2541
+2025/8/13 4:37:10:
+	0x300f1e70<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e70,myself 15/2541,target 15/2541
+2025/8/13 4:37:11:
+	0x300f1e73<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e73,myself 15/2541,target 15/2541
+2025/8/13 4:37:11:
+	0x3fff1e73<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e73,myself 15/2541,target 15/2541
+2025/8/13 4:37:11:
+	0x300f1e76<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e76,myself 15/2541,target 15/2541
+2025/8/13 4:37:28:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x4f1e76,myself 15/2541,target 15/2541
+2025/8/13 4:37:28:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x4f1e76,myself 15/2541,target 15/2541
+2025/8/13 4:49:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 4:49:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:3:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:3:23:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:3:24:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:3:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:3:25:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:3:25:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 5:4:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:8:55:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:9:29:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:9:33:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:9:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/2541,target -1/-1
+2025/8/13 5:9:46:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40020,myself 15/2570,target -1/-1
+2025/8/13 5:16:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x430c30,myself 15/2570,target -1/-1
+2025/8/13 5:16:36:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 0/2571,target -1/-1
+2025/8/13 5:21:59:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/2572,target -1/-1
+2025/8/13 5:23:16:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40030,myself 0/2362,target -1/-1
+2025/8/13 5:27:23:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/2573,target -1/-1
+2025/8/13 5:27:57:
+	0x500068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/2573,target -1/-1
+2025/8/13 5:32:44:
+	0x530068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/2574,target -1/-1
+2025/8/13 5:33:48:
+	0x530068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xaf0128,myself 0/2574,target 0/2574
+2025/8/13 5:37:17:
+	0x4f230814<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x930814,myself 15/2570,target 0/2574
+2025/8/13 5:47:46:
+	0x4f230814<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x930814,myself 15/2570,target 0/2574
+2025/8/13 5:48:17:
+	0x4f230814<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x930814,myself 15/2570,target 0/2574
+2025/8/13 5:48:39:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x411d80,myself 15/2570,target -1/-1
+2025/8/13 6:28:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:12:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:12:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:17:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:29:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:29:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:29:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:29:29:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:29:29:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:29:38:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:30:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:42:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:33:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:34:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 186.752 0.000 diff=186.752<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:39:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:39:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:42:56:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/2353,target -1/-1
+2025/8/13 6:42:56:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/2353,target -1/-1
+2025/8/13 6:42:56:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/2353,target -1/-1
+2025/8/13 6:43:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x50f20f30,myself 15/2353,target -1/-1
+2025/8/13 6:49:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:40:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:40:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:45:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:45:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:49:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:49:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:49:50:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:50:0:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:50:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:50:17:
+	2743056<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:50:42:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:50:42:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:52:58:
+	2743056<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:53:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:53:54:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:53:54:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:53:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:53:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1,target -1/-1
+2025/8/13 6:58:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:58:8:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:58:26:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:58:28:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:58:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 6:59:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20170,myself 15/1,target -1/-1
+2025/8/13 6:59:32:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20020,myself 15/1,target -1/-1
+2025/8/13 6:59:34:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:59:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:59:38:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:59:40:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 6:59:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 7:0:20:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 7:0:25:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 7:0:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/13 7:0:27:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 7:0:27:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 7:0:27:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 7:1:19:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20170,myself 15/4,target -1/-1
+2025/8/13 7:1:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 7:1:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 7:1:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 7:1:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 7:1:28:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 7:1:55:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:1:57:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:1:57:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:15:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:15:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:45:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:12:45:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:13:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:13:13:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:13:19:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:13:20:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:13:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:23:7:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:23:9:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:23:14:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:23:16:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:23:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:27:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 7:33:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:33:27:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:33:33:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:33:34:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:33:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:38:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:38:42:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:38:47:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:38:48:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:38:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 7:42:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:13:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:13:22:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:13:31:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:13:32:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:13:32:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:13:33:
+	0x530068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:14:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:15:55:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:15:56:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:15:57:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:15:57:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:15:58:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:16:0:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:34:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:34:29:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:34:29:
+	.\chef\unick_up\c_w_tsword\405p\material%#25_0.mst<-이파일이 없다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:38:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:38:28:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:38:36:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:38:37:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:38:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 12:42:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:50:19:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 12:50:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:50:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:50:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 12:50:23:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/4,target -1/-1
+2025/8/13 13:36:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:36:43:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:37:13:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:37:14:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:37:15:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:37:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 13:39:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:39:39:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:39:49:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:39:50:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:39:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:42:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 13:55:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:55:41:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:55:51:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:55:52:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:55:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 13:56:5:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 13:56:5:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 13:57:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 13:57:4:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:4:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:5:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:5:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:5:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:5:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:6:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:6:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:6:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:6:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:7:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:8:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:9:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:10:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 13:57:10:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:2:41:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:2:44:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:2:49:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:2:51:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:2:51:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:3:0:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:0:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:0:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:0:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:1:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:1:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:1:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:1:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:1:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:2:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:2:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:2:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:2:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:3:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:3:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:3:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:3:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:4:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:5:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:5:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:5:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:3:5:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:8:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:21:11:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:21:17:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:21:18:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:21:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 14:21:34:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:34:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:35:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:35:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:36:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:36:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:38:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 14:21:38:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:25:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:26:8:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:26:10:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:26:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:32:1:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:32:3:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:32:14:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:32:16:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:32:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/13 21:33:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/13 21:33:15:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:15:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:15:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:15:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:17:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:17:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:17:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:17:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:18:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:19:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:19:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:19:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:19:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:20:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:20:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:20:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:20:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:21:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:23:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:24:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:25:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:25:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:25:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:25:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:26:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:26:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:26:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:26:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:27:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:28:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:28:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:28:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:28:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:29:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:29:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:29:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:29:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:30:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:31:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:31:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:31:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:31:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:32:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/13 21:33:32:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/4,target -1/-1
+2025/8/14 3:27:36:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 3:27:39:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 3:27:47:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 3:27:48:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 3:27:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 3:28:5:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/4,target -1/-1
+2025/8/14 20:16:9:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 20:16:23:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 20:16:25:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 20:16:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 21:39:17:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 21:39:26:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 21:39:28:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 21:39:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/14 21:41:59:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/15 1:53:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 1:53:16:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 1:53:22:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 1:53:24:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 1:53:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:8:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:8:59:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:9:1:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:9:1:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:13:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:13:21:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:13:23:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:13:23:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 2:13:45:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:45:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:50:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:50:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:50:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:50:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:51:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:51:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:51:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:51:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:52:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:53:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:53:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:53:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:53:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:54:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:55:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:55:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:55:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:55:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:56:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:57:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:58:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:58:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:58:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:58:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:13:59:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:0:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:0:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:0:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:0:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:1:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:2:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:2:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:47:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xa20830,myself 15/1149,target -1/-1
+2025/8/15 2:14:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/15 2:15:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/15 2:16:16:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/15 2:16:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1149,target -1/-1
+2025/8/15 2:16:25:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40020,myself 15/1156,target -1/-1
+2025/8/15 2:16:25:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40020,myself 15/1156,target -1/-1
+2025/8/15 2:16:33:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40020,myself 15/1156,target -1/-1
+2025/8/15 2:17:50:
+	0x3fff1e70<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e70,myself 15/1156,target 15/1156
+2025/8/15 2:17:50:
+	0x300f1e70<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e70,myself 15/1156,target 15/1156
+2025/8/15 2:17:51:
+	0x300f1e73<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e73,myself 15/1156,target 15/1156
+2025/8/15 2:17:51:
+	0x3fff1e73<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e73,myself 15/1156,target 15/1156
+2025/8/15 2:17:51:
+	0x300f1e76<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e76,myself 15/1156,target 15/1156
+2025/8/15 2:18:1:
+	0x3fff1e70<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e70,myself 15/1156,target 15/1156
+2025/8/15 2:18:1:
+	0x300f1e70<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e70,myself 15/1156,target 15/1156
+2025/8/15 2:18:1:
+	0x300f1e73<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e73,myself 15/1156,target 15/1156
+2025/8/15 2:18:1:
+	0x3fff1e73<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x4f1e73,myself 15/1156,target 15/1156
+2025/8/15 2:18:1:
+	0x300f1e76<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f1e76,myself 15/1156,target 15/1156
+2025/8/15 2:19:53:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1156,target -1/-1
+2025/8/15 2:19:53:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1156,target -1/-1
+2025/8/15 13:51:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 13:51:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 13:54:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 13:59:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 14:0:10:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 14:0:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 14:0:11:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 14:0:17:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/15 14:0:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:40:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:51:1:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:51:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:51:11:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:51:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 1:51:21:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40020,myself 15/1158,target -1/-1
+2025/8/16 1:51:21:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40020,myself 15/1158,target -1/-1
+2025/8/16 1:51:33:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40020,myself 15/1158,target -1/-1
+2025/8/16 1:51:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:51:35:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:52:51:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x430c30,myself 15/1158,target -1/-1
+2025/8/16 1:53:4:
+	0x300f0fa0<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa0,myself 15/1158,target 15/1158
+2025/8/16 1:53:5:
+	0x300f0fa3<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa3,myself 15/1158,target 15/1158
+2025/8/16 1:53:5:
+	0x300f0fa6<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa6,myself 15/1158,target 15/1158
+2025/8/16 1:53:15:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x4f0f56,myself 15/1158,target 15/1158
+2025/8/16 1:53:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x4f0f56,myself 15/1158,target 15/1158
+2025/8/16 1:53:16:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x4f0f56,myself 15/1158,target 15/1158
+2025/8/16 1:53:16:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x4f0f56,myself 15/1158,target 15/1158
+2025/8/16 1:53:31:
+	0x300f0fa0<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa0,myself 15/1158,target 15/1158
+2025/8/16 1:53:31:
+	0x300f0fa3<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa3,myself 15/1158,target 15/1158
+2025/8/16 1:53:32:
+	0x300f0fa6<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0fa6,myself 15/1158,target 15/1158
+2025/8/16 1:56:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:57:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:57:19:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:57:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 1:57:22:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20020,myself 15/1159,target -1/-1
+2025/8/16 1:57:22:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20020,myself 15/1159,target -1/-1
+2025/8/16 1:57:33:
+	0x520068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20020,myself 15/1159,target -1/-1
+2025/8/16 1:58:1:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 1:58:28:
+	0x520068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 2:1:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x8f0c36,myself 15/1159,target 15/1159
+2025/8/16 2:12:44:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:5:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:6:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:6:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:7:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:7:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:13:17:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 2:15:20:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 2:16:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 2:16:11:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 2:16:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1158,target -1/-1
+2025/8/16 2:16:25:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40020,myself 15/1160,target -1/-1
+2025/8/16 2:17:41:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x4f0ed6,myself 15/1160,target 15/1160
+2025/8/16 2:19:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x4f0ed6,myself 15/1160,target 15/1160
+2025/8/16 2:19:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x4f0ed6,myself 15/1160,target 15/1160
+2025/8/16 2:43:43:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:43:47:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:44:9:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:44:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:44:16:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:44:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 2:44:18:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:44:18:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:44:18:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:44:25:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/141,target -1/-1
+2025/8/16 2:44:27:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:44:27:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:44:57:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40020,myself 15/141,target -1/-1
+2025/8/16 2:44:57:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40020,myself 15/141,target -1/-1
+2025/8/16 2:45:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40170,myself 15/141,target -1/-1
+2025/8/16 2:45:25:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/141,target -1/-1
+2025/8/16 2:45:25:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/141,target -1/-1
+2025/8/16 2:46:55:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/141,target -1/-1
+2025/8/16 2:47:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:47:44:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:47:51:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:47:51:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/141,target -1/-1
+2025/8/16 2:47:53:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/143,target -1/-1
+2025/8/16 2:47:53:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/143,target -1/-1
+2025/8/16 2:47:53:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/143,target -1/-1
+2025/8/16 2:48:12:
+	0x520068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/143,target -1/-1
+2025/8/16 2:48:39:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:48:39:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:49:7:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:50:43:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:50:47:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:50:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 2:50:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 2:50:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 2:50:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 2:50:52:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/144,target -1/-1
+2025/8/16 2:50:52:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/144,target -1/-1
+2025/8/16 2:51:15:
+	0x520068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 0/142,target -1/-1
+2025/8/16 3:28:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:28:32:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:28:34:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:28:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:28:58:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:28:58:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:29:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:30:17:
+	0x520068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20170,myself 15/144,target -1/-1
+2025/8/16 3:31:12:
+	2743057<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:31:16:
+	2743057<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:31:20:
+	2743057<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:32:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:32:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:32:46:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:32:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/16 3:32:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/147,target -1/-1
+2025/8/16 3:32:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/147,target -1/-1
+2025/8/16 3:32:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/147,target -1/-1
+2025/8/16 3:32:55:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x50f20f30,myself 15/147,target -1/-1
+2025/8/16 3:32:55:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x50f20f30,myself 15/147,target -1/-1
+2025/8/16 3:33:43:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/147,target -1/-1
+2025/8/16 3:35:20:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:35:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:36:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:36:27:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:36:27:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:36:27:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x420130,myself 15/147,target -1/-1
+2025/8/16 3:36:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/148,target -1/-1
+2025/8/16 3:36:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/148,target -1/-1
+2025/8/16 3:36:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/148,target -1/-1
+2025/8/16 3:36:49:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/148,target -1/-1
+2025/8/16 3:37:57:
+	0x500068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x720130,myself 15/148,target -1/-1
+2025/8/16 3:38:27:
+	2743051<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/148,target -1/-1
+2025/8/16 3:40:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:41:8:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:41:9:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:41:14:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:41:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:41:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/149,target -1/-1
+2025/8/16 3:41:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/149,target -1/-1
+2025/8/16 3:41:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/149,target -1/-1
+2025/8/16 3:41:29:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x430c30,myself 15/149,target -1/-1
+2025/8/16 3:42:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40170,myself 15/149,target -1/-1
+2025/8/16 3:52:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:52:37:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:52:39:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:52:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:55:45:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:56:13:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:56:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:56:18:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:56:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 3:56:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:56:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:56:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:56:26:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x50f20f30,myself 15/150,target -1/-1
+2025/8/16 3:56:39:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:56:39:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:56:40:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:57:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 3:59:5:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40170,myself 15/150,target -1/-1
+2025/8/16 4:0:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 4:0:2:
+	Move2 Map=3,obj=15 old pos 1.500 2.000 3.000,new pos 1.000 650.898 3.000 diff=648.898<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 4:0:47:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 4:1:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:1:28:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:1:30:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:2:15:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:10:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:11:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:19:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 4:3:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:3:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:3:21:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:3:50:
+	0x530068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:4:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:5:52:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30170,myself 15/151,target -1/-1
+2025/8/16 4:5:54:
+	0x530068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/151,target -1/-1
+2025/8/16 4:6:59:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/16 4:7:0:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/16 4:7:35:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/16 4:8:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x4f0f16,myself 15/150,target 15/150
+2025/8/16 4:8:39:
+	0x540068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 0/150,target -1/-1
+2025/8/16 4:8:45:
+	0x530068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 0/150,target -1/-1
+2025/8/16 4:8:45:
+	0x530068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/16 4:8:55:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/151,target -1/-1
+2025/8/16 4:8:55:
+	0x540068c2<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 15/151,target -1/-1
+2025/8/16 4:10:4:
+	0x4f230814<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x930814,myself 0/150,target 15/151
+2025/8/16 4:10:4:
+	0x4f230814<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0x930814,myself 15/150,target 0/151
+2025/8/16 17:20:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:22:19:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:22:20:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:22:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:22:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:22:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:22:29:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:23:13:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:23:13:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:27:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:31:29:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:31:38:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:31:39:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:31:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:32:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 17:44:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:53:32:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:53:33:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:53:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 17:57:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 18:59:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 18:59:45:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 18:59:47:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 18:59:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 19:1:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:5:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:5:58:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:6:1:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:6:1:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:6:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:10:45:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:10:55:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:10:57:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:10:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:12:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:18:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:18:15:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:18:18:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:18:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:19:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:26:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:26:47:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:26:49:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:26:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:27:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:29:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:29:31:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:29:34:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:29:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 21:29:36:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:29:36:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 21:30:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:23:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:23:36:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:23:38:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:23:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:23:41:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:23:41:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:27:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:33:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:33:29:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:33:31:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:33:31:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:34:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:36:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:36:40:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:36:42:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:36:43:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:41:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:41:53:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:41:56:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:41:56:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 22:42:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:57:3:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:57:13:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:57:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 22:57:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 22:57:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 22:57:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 22:57:31:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/1159,target -1/-1
+2025/8/16 22:57:31:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/1159,target -1/-1
+2025/8/16 23:0:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:0:46:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:0:49:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:0:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:1:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 23:4:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:5:2:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:5:5:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:5:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:5:5:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:6:41:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:6:54:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:6:57:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:6:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:12:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 23:25:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 23:32:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:32:36:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:32:38:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:32:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:33:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/16 23:46:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:46:38:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:46:40:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:46:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/16 23:47:1:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 23:49:58:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/16 23:49:58:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:2:3:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:3:3:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:3:6:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:3:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:3:6:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:5:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:6:4:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:6:6:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:6:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:7:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:7:47:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:7:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:8:52:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:9:16:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:9:19:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:9:19:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:12:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/17 0:15:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:15:28:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:15:31:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:15:31:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:16:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:17:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:19:22:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:19:24:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:19:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 0:20:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:20:3:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:20:3:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:21:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:22:48:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:22:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 0:22:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/17 0:22:54:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/1159,target -1/-1
+2025/8/17 1:2:52:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:3:1:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:3:4:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:3:4:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:3:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:15:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:29:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:33:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:34:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:45:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 1:46:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 2:4:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 2:4:56:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 2:4:57:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 2:4:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 2:5:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 3:34:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1160,target -1/-1
+2025/8/17 3:34:16:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:34:17:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:34:18:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:34:18:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:34:19:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:34:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x50f20f30,myself 15/1160,target -1/-1
+2025/8/17 3:45:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 3:45:24:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 3:45:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 3:47:54:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/17 3:47:54:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/17 3:47:55:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/17 3:47:55:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/17 3:48:1:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x430c30,myself 15/150,target -1/-1
+2025/8/17 3:50:2:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x411d70,myself 15/150,target -1/-1
+2025/8/17 3:50:2:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x411d70,myself 15/150,target -1/-1
+2025/8/17 4:17:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:17:27:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:17:35:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:17:37:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:17:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:17:37:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:18:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:20:44:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:20:46:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:20:54:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:20:55:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:20:55:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:20:56:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:21:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:23:23:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:23:26:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:23:35:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:23:36:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:23:36:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:23:37:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:27:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:28:46:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:28:49:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:34:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:34:45:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:36:9:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:36:10:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:36:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:36:11:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:20:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:22:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:29:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:30:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:30:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:41:31:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:42:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:44:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:44:14:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:44:23:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:44:24:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:44:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:44:25:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:45:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:55:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:55:37:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:57:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:58:2:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:22:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:24:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:37:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:39:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:39:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 4:59:43:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 4:59:43:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/17 5:5:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:6:0:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:6:8:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:6:9:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:6:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:6:10:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:8:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:9:1:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:9:7:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:9:8:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:9:9:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:9:9:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:5:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:11:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:12:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:10:12:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/17 5:12:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:35:17:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:35:21:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:37:0:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:37:2:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:37:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:37:3:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 2:37:20:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:37:20:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:38:0:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:39:9:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:39:16:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:39:16:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:39:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/150,target -1/-1
+2025/8/20 2:39:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/20 2:39:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/20 2:39:35:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/20 3:59:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 3:59:41:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:6:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:7:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:7:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:8:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:8:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/20 4:2:8:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/203,target -1/-1
+2025/8/20 4:2:8:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x140,myself 0/203,target -1/-1
+2025/8/20 4:2:23:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x130,myself 0/203,target -1/-1
+2025/8/20 4:7:9:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x170,myself 15/201,target -1/-1
+2025/8/20 4:7:9:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x170,myself 15/201,target -1/-1
+2025/8/20 4:7:9:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x170,myself 15/201,target -1/-1
+2025/8/20 4:7:21:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/204,target -1/-1
+2025/8/20 4:12:4:
+	0x500068c1<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x140,myself 0/204,target -1/-1
+2025/8/22 0:40:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:40:22:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:40:29:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:40:31:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:40:32:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:40:32:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:42:6:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/22 0:53:17:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:20:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:30:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:33:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:33:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:33:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:53:37:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/22 0:53:37:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x140,myself 15/201,target -1/-1
+2025/8/22 0:54:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:54:45:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:54:51:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:54:53:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:54:53:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 0:54:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:10:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:10:51:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:11:51:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:11:54:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:11:54:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:11:54:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:12:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:1:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:7:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:9:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:9:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:13:10:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:18:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:13:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:14:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:21:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:19:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/207,target -1/-1
+2025/8/22 1:19:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/207,target -1/-1
+2025/8/22 1:19:22:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/207,target -1/-1
+2025/8/22 1:20:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x50f20f30,myself 15/207,target -1/-1
+2025/8/22 1:22:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:22:49:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:23:0:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:23:2:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:23:2:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:23:3:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:15:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:23:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:25:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:25:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:24:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:13:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:18:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:20:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:20:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:25:21:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:15:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:21:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:24:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:24:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:26:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:27:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:27:57:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:27:59:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:28:0:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 1:28:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/207,target -1/-1
+2025/8/22 2:1:17:
+	2743056<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/207,target -1/-1
+2025/8/22 2:19:46:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:20:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:18:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:18:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:25:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:21:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/22 2:21:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/22 2:21:33:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/144,target -1/-1
+2025/8/22 2:22:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:22:56:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:22:58:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:22:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:38:33:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:39:33:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:39:33:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:39:40:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:39:41:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:39:43:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:39:43:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:39:43:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:41:35:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:41:35:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:42:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 2:54:20:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:54:30:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:54:33:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:54:34:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 2:57:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:26:54:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:27:32:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:27:33:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:27:39:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:27:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:27:46:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:27:46:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:27:46:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:28:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:29:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:29:50:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:29:53:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:29:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:30:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:31:11:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:31:21:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:31:23:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:31:24:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:31:24:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:31:24:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:33:43:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:34:19:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:34:22:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:34:22:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:34:23:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:34:23:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:35:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:35:51:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:35:59:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:36:2:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:36:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:36:2:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:36:2:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:36:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:46:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:48:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:49:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:41:49:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:45:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:47:24:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:47:26:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:47:27:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:48:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 3:50:55:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:51:38:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:51:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:51:45:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:51:46:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40030,myself 0/2,target -1/-1
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 0/1,target -1/-1
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40030,myself 0/2,target -1/-1
+	ef ID = 0x40140,myself 0/1,target -1/-1
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 0/1,target -1/-1
+2025/8/22 3:51:48:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40030,myself 0/2,target -1/-1
+2025/8/22 3:53:23:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:53:32:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:53:34:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:53:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:53:35:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:53:35:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 3:57:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 0/1,target -1/-1
+2025/8/22 4:0:58:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:8:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:10:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:10:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:10:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:11:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:1:11:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:54:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:57:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:57:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:58:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:9:58:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:26:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:32:25:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:37:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:37:47:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:37:50:
+	R3T파일을 메모리에 올릴수 없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:37:50:
+	.\map\entity\e_neutrala\trade_bel\trade_bel.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 4:37:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:15:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:3:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:4:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:12:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:12:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:16:14:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:16:14:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:16:14:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:16:27:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/22 5:16:27:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/22 5:44:3:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:44:45:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:44:45:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:44:55:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:44:56:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:45:0:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:45:0:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:45:0:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 5:45:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x50f20f30,myself 15/1,target -1/-1
+2025/8/22 5:46:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:47:12:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:47:15:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:47:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:47:16:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:47:16:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 5:48:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 17:59:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:27:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:30:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:30:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:30:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:30:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/22 17:59:31:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 17:59:31:
+	.\chef\unit\b_tranship\eye00\aura.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:0:50:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:0:58:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:0:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:1:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:1:48:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:2:2:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:2:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:2:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:3:6:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:3:13:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:3:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/1,target -1/-1
+2025/8/22 18:3:20:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:3:20:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:3:20:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:3:25:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:4:38:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:4:49:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:4:49:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:6:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:6:26:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:6:27:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:8:0:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:8:12:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:8:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:24:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:24:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:24:47:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/3,target -1/-1
+2025/8/22 18:28:32:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:29:17:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:30:42:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:30:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:30:44:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:30:44:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:30:44:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:31:2:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x50f20f30,myself 15/6,target -1/-1
+2025/8/22 18:31:18:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x50f20f30,myself 15/6,target -1/-1
+2025/8/22 18:31:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x50f20f30,myself 15/6,target -1/-1
+2025/8/22 18:32:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:32:21:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:32:22:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x30140,myself 0/5,target -1/-1
+2025/8/22 18:33:0:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/6,target -1/-1
+2025/8/22 18:33:11:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x20140,myself 15/6,target -1/-1
+2025/8/22 18:33:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x20140,myself 15/6,target -1/-1
+2025/8/23 14:42:13:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 14:42:17:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:6:12:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:6:15:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:6:21:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:6:23:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:6:23:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/23 18:12:2:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20140,myself 15/6,target -1/-1
+2025/8/24 2:42:39:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:43:17:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:43:17:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:43:23:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:43:23:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:43:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 2:43:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 2:43:25:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 2:43:43:
+	2743062<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x40020,myself 15/17,target -1/-1
+2025/8/24 2:44:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40170,myself 15/17,target -1/-1
+2025/8/24 2:44:10:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x40020,myself 15/17,target -1/-1
+2025/8/24 2:53:40:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:53:57:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:53:59:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:53:59:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:53:59:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 2:53:59:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:26:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:27:
+	.\map\entity\e_neutrala\trade_ac\trade_ac.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:28:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:28:
+	.\chef\unit\par_com\fighter01.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:4:28:
+	.\chef\unit\cata\fire2_p.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:5:4:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 3:7:18:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 3:7:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 3:7:52:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 3:7:53:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0x40140,myself 15/17,target -1/-1
+2025/8/24 3:7:58:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/18,target -1/-1
+2025/8/24 3:7:58:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/18,target -1/-1
+2025/8/24 3:7:58:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/18,target -1/-1
+2025/8/24 3:8:10:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0x20140,myself 15/18,target -1/-1
+2025/8/24 3:32:26:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:32:28:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:4:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:7:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:36:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:37:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:37:
+	Move2 Map=-1,obj=15 old pos 0.500 0.000 0.000,new pos 0.000 141.432 0.000 diff=141.432<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:42:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:33:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/19,target -1/-1
+2025/8/24 3:33:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/19,target -1/-1
+2025/8/24 3:33:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/19,target -1/-1
+2025/8/24 3:34:3:
+	\snd\black.wav이 파일이 없슴. 다운은 안시키주지..<-경고
+	ef ID = 0x20170,myself 15/19,target -1/-1
+2025/8/24 3:34:38:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:34:38:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:34:38:
+	0x50f20832<- MagicEntityList에 없습니다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:34:38:
+	278042<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:41:14:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:41:42:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:41:47:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:41:47:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xa20830,myself 15/19,target -1/-1
+2025/8/24 3:41:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/20,target -1/-1
+2025/8/24 3:41:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/20,target -1/-1
+2025/8/24 3:41:49:
+	2780105<-효과음 스크립트에서 실행하고자하는 이 아이디가 없네요.<-경고
+	ef ID = 0x20140,myself 15/20,target -1/-1
+2025/8/24 3:49:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:49:7:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:49:35:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:49:38:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:59:27:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:59:28:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 3:59:29:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 6:7:5:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 6:7:8:
+	.\chef\53lv_armor\183p_y.spt<-이 파일이없습니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 6:7:14:
+	./SpriteImage/Common/enroll_items.spr<-를 열수없습니다. or 먼저 LoadSprite를 하세요.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 6:7:15:
+	.\map\entity\e_neutrala\trade_co\trade_co.r3e<-이 파일이 안보인다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
+2025/8/24 6:7:16:
+	r3l 파일을 읽을 수 없습니다.광원위치는 카메라입니다.<-경고
+	ef ID = 0xffffffff,myself -1/-1,target -1/-1
